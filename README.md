@@ -1,9 +1,8 @@
 # Hi there 👋 I'm Jeremy
 
-## My Blog
+## My Peronsal Website
 
-Check out my blog at https://jer-k.github.io/. I want to write more, but I find completing blog posts a real challenge. 
-I usually get half way through one and then abandon it
+Check out my website at [jeremykreutzbender.com](https://jeremykreutzbender.com)
 
 <!--
 **jer-k/jer-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
